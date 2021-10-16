@@ -1,0 +1,71 @@
+------------------ANTIVIRUS TARAMA SONUCLARI-------------------
+----------- SCAN SUMMARY -----------
+Known viruses: 8578793
+Engine version: 0.103.2
+Scanned directories: 4
+Scanned files: 13
+Infected files: 0
+Data scanned: 0.01 MB
+Data read: 71.61 MB (ratio 0.00:1)
+Time: 14.149 sec (0 m 14 s)
+Start Date: 2021:09:07 09:15:20
+End Date:   2021:09:07 09:15:34
+--------------------STATIK ANALIZ SONUCLARI--------------------
+Vulnerability ID        Package                                Severity          Fix         CVE Refs                Vulnerability URL                                                     Type        Feed Group          Package Path        
+CVE-2013-4235           login-1:4.8.1-1ubuntu5.20.04.1         Low               None        CVE-2013-4235           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2013-4235           dpkg        ubuntu:20.04        pkgdb               
+CVE-2013-4235           passwd-1:4.8.1-1ubuntu5.20.04.1        Low               None        CVE-2013-4235           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2013-4235           dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-2781           coreutils-8.30-3ubuntu2                Low               None        CVE-2016-2781           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-2781           dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-18276          bash-5.0-6ubuntu1.1                    Low               None        CVE-2019-18276          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-18276          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-20838          libpcre3-2:8.39-12build1               Low               None        CVE-2019-20838          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-20838          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-25013          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2019-25013          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-25013          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-25013          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2019-25013          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-25013          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-27618          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-27618          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-27618          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-27618          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-27618          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-27618          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-29562          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-29562          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-29562          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-29562          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-29562          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-29562          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-6096           libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-6096           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-6096           dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-6096           libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-6096           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-6096           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-27645          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2021-27645          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-27645          dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-27645          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2021-27645          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-27645          dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-3326           libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2021-3326           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-3326           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-3326           libc6-2.31-0ubuntu9.2                  Low               None        CVE-2021-3326           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-3326           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-33560          libgcrypt20-1.8.5-5ubuntu1             Low               None        CVE-2021-33560          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-33560          dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-10228          libc-bin-2.31-0ubuntu9.2               Negligible        None        CVE-2016-10228          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10228          dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-10228          libc6-2.31-0ubuntu9.2                  Negligible        None        CVE-2016-10228          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10228          dpkg        ubuntu:20.04        pkgdb               
+CVE-2017-11164          libpcre3-2:8.39-12build1               Negligible        None        CVE-2017-11164          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-11164          dpkg        ubuntu:20.04        pkgdb               
+CVE-2018-1000654        libtasn1-6-4.16.0-2                    Negligible        None        CVE-2018-1000654        http://people.ubuntu.com/~ubuntu-security/cve/CVE-2018-1000654        dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-14155          libpcre3-2:8.39-12build1               Negligible        None        CVE-2020-14155          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-14155          dpkg        ubuntu:20.04        pkgdb               
+Vulnerability ID        Package                                Severity          Fix         CVE Refs                Vulnerability URL                                                     Type        Feed Group          Package Path        
+CVE-2013-4235           login-1:4.8.1-1ubuntu5.20.04.1         Low               None        CVE-2013-4235           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2013-4235           dpkg        ubuntu:20.04        pkgdb               
+CVE-2013-4235           passwd-1:4.8.1-1ubuntu5.20.04.1        Low               None        CVE-2013-4235           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2013-4235           dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-2781           coreutils-8.30-3ubuntu2                Low               None        CVE-2016-2781           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-2781           dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-18276          bash-5.0-6ubuntu1.1                    Low               None        CVE-2019-18276          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-18276          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-20838          libpcre3-2:8.39-12build1               Low               None        CVE-2019-20838          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-20838          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-25013          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2019-25013          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-25013          dpkg        ubuntu:20.04        pkgdb               
+CVE-2019-25013          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2019-25013          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2019-25013          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-27618          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-27618          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-27618          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-27618          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-27618          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-27618          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-29562          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-29562          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-29562          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-29562          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-29562          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-29562          dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-6096           libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2020-6096           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-6096           dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-6096           libc6-2.31-0ubuntu9.2                  Low               None        CVE-2020-6096           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-6096           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-27645          libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2021-27645          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-27645          dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-27645          libc6-2.31-0ubuntu9.2                  Low               None        CVE-2021-27645          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-27645          dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-3326           libc-bin-2.31-0ubuntu9.2               Low               None        CVE-2021-3326           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-3326           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-3326           libc6-2.31-0ubuntu9.2                  Low               None        CVE-2021-3326           http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-3326           dpkg        ubuntu:20.04        pkgdb               
+CVE-2021-33560          libgcrypt20-1.8.5-5ubuntu1             Low               None        CVE-2021-33560          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2021-33560          dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-10228          libc-bin-2.31-0ubuntu9.2               Negligible        None        CVE-2016-10228          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10228          dpkg        ubuntu:20.04        pkgdb               
+CVE-2016-10228          libc6-2.31-0ubuntu9.2                  Negligible        None        CVE-2016-10228          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10228          dpkg        ubuntu:20.04        pkgdb               
+CVE-2017-11164          libpcre3-2:8.39-12build1               Negligible        None        CVE-2017-11164          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-11164          dpkg        ubuntu:20.04        pkgdb               
+CVE-2018-1000654        libtasn1-6-4.16.0-2                    Negligible        None        CVE-2018-1000654        http://people.ubuntu.com/~ubuntu-security/cve/CVE-2018-1000654        dpkg        ubuntu:20.04        pkgdb               
+CVE-2020-14155          libpcre3-2:8.39-12build1               Negligible        None        CVE-2020-14155          http://people.ubuntu.com/~ubuntu-security/cve/CVE-2020-14155          dpkg        ubuntu:20.04        pkgdb               
+--------------------NMAP TARAMA SONUCLARI----------------------
+# Nmap 7.80 scan initiated Tue Sep  7 12:18:12 2021 as: nmap -Pn -oN ubu.txt 10.10.1.2
+Nmap scan report for 10.10.1.2
+Host is up (0.0000050s latency).
+All 1000 scanned ports on 10.10.1.2 are closed
+MAC Address: 02:42:0A:0A:01:02 (Unknown)
+
+# Nmap done at Tue Sep  7 12:18:12 2021 -- 1 IP address (1 host up) scanned in 0.30 seconds
+-----------------AĞ TRAFİĞİ ANALİZ SONUCLARI-------------------
+09/07-09:18:17.919727 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
