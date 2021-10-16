@@ -1,0 +1,32 @@
+------------------ANTIVIRUS TARAMA SONUCLARI-------------------
+----------- SCAN SUMMARY -----------
+Known viruses: 8578793
+Engine version: 0.103.2
+Scanned directories: 4
+Scanned files: 13
+Infected files: 1
+Data scanned: 8.80 MB
+Data read: 4.20 MB (ratio 2.09:1)
+Time: 14.640 sec (0 m 14 s)
+Start Date: 2021:09:07 11:16:26
+End Date:   2021:09:07 11:16:40
+--------------------STATIK ANALIZ SONUCLARI--------------------
+Vulnerability ID        Package                               Severity        Fix              CVE Refs                Vulnerability URL                                                   Type        Feed Group        Package Path
+CVE-2018-1000517        busybox-1.27.2                        Critical        None             CVE-2018-1000517        https://nvd.nist.gov/vuln/detail/CVE-2018-1000517                   APKG        nvdv2:cves        pkgdb               
+CVE-2018-1000500        busybox-1.27.2                        High            None             CVE-2018-1000500        https://nvd.nist.gov/vuln/detail/CVE-2018-1000500                   APKG        nvdv2:cves        pkgdb               
+CVE-2018-20679          busybox-1.27.2                        High            None             CVE-2018-20679          https://nvd.nist.gov/vuln/detail/CVE-2018-20679                     APKG        nvdv2:cves        pkgdb               
+CVE-2019-14697          musl-1.1.18-r2                        High            1.1.18-r4        CVE-2019-14697          http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14697        APKG        alpine:3.7        pkgdb               
+CVE-2019-14697          musl-utils-1.1.18-r2                  High            1.1.18-r4        CVE-2019-14697          http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14697        APKG        alpine:3.7        pkgdb               
+CVE-2019-5747           busybox-1.27.2                        High            None             CVE-2019-5747           https://nvd.nist.gov/vuln/detail/CVE-2019-5747                      APKG        nvdv2:cves        pkgdb               
+CVE-2018-0495           libressl2.6-libcrypto-2.6.3-r0        Low             2.6.5-r0         CVE-2018-0495           http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-0495         APKG        alpine:3.7        pkgdb               
+CVE-2018-0495           libressl2.6-libssl-2.6.3-r0           Low             2.6.5-r0         CVE-2018-0495           http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-0495         APKG        alpine:3.7        pkgdb               
+CVE-2018-0732           libressl2.6-libcrypto-2.6.3-r0        Medium          2.6.5-r0         CVE-2018-0732           http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-0732         APKG        alpine:3.7        pkgdb               
+CVE-2018-0732           libressl2.6-libssl-2.6.3-r0           Medium          2.6.5-r0         CVE-2018-0732           http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-0732         APKG        alpine:3.7        pkgdb    
+CVE-2020-28928          musl-1.1.18                           Medium          None             CVE-2020-28928          https://nvd.nist.gov/vuln/detail/CVE-2020-28928                     APKG        nvdv2:cves        pkgdb 
+--------------------NMAP TARAMA SONUCLARI----------------------
+# Nmap 7.80 scan initiated Tue Sep  7 14:16:47 2021 as: nmap -Pn -oN bua.txt 10.10.1.2
+Nmap scan report for 10.10.1.2
+-----------------AĞ TRAFİĞİ ANALİZ SONUCLARI-------------------
+09/07-09:20:43.071605 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+09/07-09:20:43.071605 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+09/07-09:20:43.071605 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
