@@ -1,0 +1,71 @@
+------------------ANTIVIRUS TARAMA SONUCLARI-------------------
+----------- SCAN SUMMARY -----------
+Known viruses: 8578793
+Engine version: 0.103.2
+Scanned directories: 8
+Scanned files: 25
+Infected files: 0
+Data scanned: 62.05 MB
+Data read: 364.39 MB (ratio 0.17:1)
+Time: 23.198 sec (0 m 23 s)
+Start Date: 2021:09:07 11:06:51
+End Date:   2021:09:07 11:07:14
+--------------------STATIK ANALIZ SONUCLARI--------------------
+
+
+--------------------NMAP TARAMA SONUCLARI----------------------
+# Nmap 7.80 scan initiated Tue Sep  7 14:01:45 2021 as: nmap -Pn -oN os.txt 10.10.1.2
+Nmap scan report for 10.10.1.2
+Host is up (0.0000050s latency).
+All 1000 scanned ports on 10.10.1.2 are closed
+MAC Address: 02:42:0A:0A:01:02 (Unknown)
+
+# Nmap done at Tue Sep  7 14:01:45 2021 -- 1 IP address (1 host up) scanned in 0.31 seconds
+-----------------AĞ TRAFİĞİ ANALİZ SONUCLARI-------------------
+09/07-11:00:59.072262 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+09/07-11:01:48.102296 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:39689 -> 8.8.8.8:53
+09/07-11:01:48.102492 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:53326 -> 8.8.8.8:53
+09/07-11:01:48.238860 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:50207 -> 8.8.4.4:53
+09/07-11:01:48.244724 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:54232 -> 8.8.4.4:53
+09/07-11:02:07.810213 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:36286 -> 8.8.8.8:53
+09/07-11:02:07.810401 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52395 -> 8.8.8.8:53
+09/07-11:02:07.947263 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40077 -> 8.8.4.4:53
+09/07-11:02:07.952856 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:43358 -> 8.8.4.4:53
+09/07-11:02:10.812424 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:58253 -> 8.8.8.8:53
+09/07-11:02:10.812729 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52425 -> 8.8.8.8:53
+09/07-11:02:10.948362 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:48715 -> 8.8.4.4:53
+09/07-11:02:10.952614 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:49316 -> 8.8.4.4:53
+09/07-11:02:13.839668 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40942 -> 8.8.8.8:53
+09/07-11:02:13.839764 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:33191 -> 8.8.8.8:53
+09/07-11:02:13.976823 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:45896 -> 8.8.4.4:53
+09/07-11:02:14.149924 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:47403 -> 8.8.4.4:53
+09/07-11:01:48.102296 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:39689 -> 8.8.8.8:53
+09/07-11:01:48.102492 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:53326 -> 8.8.8.8:53
+09/07-11:01:48.238860 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:50207 -> 8.8.4.4:53
+09/07-11:01:48.244724 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:54232 -> 8.8.4.4:53
+09/07-11:02:07.810213 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:36286 -> 8.8.8.8:53
+09/07-11:02:07.810401 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52395 -> 8.8.8.8:53
+09/07-11:02:07.947263 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40077 -> 8.8.4.4:53
+09/07-11:02:07.952856 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:43358 -> 8.8.4.4:53
+09/07-11:02:10.812424 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:58253 -> 8.8.8.8:53
+09/07-11:02:10.812729 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52425 -> 8.8.8.8:53
+09/07-11:02:10.948362 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:48715 -> 8.8.4.4:53
+09/07-11:02:10.952614 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:49316 -> 8.8.4.4:53
+09/07-11:02:13.839668 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40942 -> 8.8.8.8:53
+09/07-11:02:13.839764 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:33191 -> 8.8.8.8:53
+09/07-11:02:13.976823 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:45896 -> 8.8.4.4:53
+09/07-11:02:14.149924 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:47403 -> 8.8.4.4:53
+09/07-11:01:48.102296 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:39689 -> 8.8.8.8:53
+09/07-11:01:48.102492 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:53326 -> 8.8.8.8:53
+09/07-11:01:48.238860 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:50207 -> 8.8.4.4:53
+09/07-11:01:48.244724 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:54232 -> 8.8.4.4:53
+09/07-11:02:07.810213 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:36286 -> 8.8.8.8:53
+09/07-11:02:07.810401 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52395 -> 8.8.8.8:53
+09/07-11:02:07.947263 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40077 -> 8.8.4.4:53
+09/07-11:02:07.952856 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:43358 -> 8.8.4.4:53
+09/07-11:02:10.812424 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:58253 -> 8.8.8.8:53
+09/07-11:02:10.812729 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:52425 -> 8.8.8.8:53
+09/07-11:02:10.948362 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:48715 -> 8.8.4.4:53
+09/07-11:02:10.952614 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:49316 -> 8.8.4.4:53
+09/07-11:02:13.839668 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:40942 -> 8.8.8.8:53
+09/07-11:02:13.839764 [**] [1:43687:2] "INDICATOR-COMPROMISE Suspicious .top dns query" [**] [Classification: Misc activity] [Priority: 3] [AppID: DNS] {UDP} 10.10.1.2:33191 -> 8.8.8.8:53
